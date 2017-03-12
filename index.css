@@ -1,25 +1,26 @@
 #zewnetrzny {
-  position:relative;
-  width: 400px;
-  height: 400px;
-  background-color: green;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
 }
 
 #wewn1 {
-  position: absolute;
-  left: 200px;
-  
-  width: 200px;
-  height: 200px;
-  background-color: blue;
+    position: absolute;
+    left: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
 }
 
 #wewn2 {
-  position: absolute;
-  top: 200px;
-  
-  width: 200px;
-  height: 200px;
-  background-color: red;
+    position: absolute;
+    top: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
 }
-
